@@ -1,0 +1,15 @@
+{
+    "title": "Polanco",
+    "baseURL": "https:\/\/www.lligatkol.com",
+    "languageCode": "en-us",
+    "theme": "tvpage",
+    "disablePathToLower": true,
+    "enableRobotsTXT": true,
+    "galleryChannelIds": "",
+    "params": {
+        "loginId": "1759047",
+        "subfolder": "",
+        "firstpartycookies": true,
+        "cookiedomain": "lligatkol.com"
+    }
+}
